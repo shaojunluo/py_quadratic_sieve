@@ -1,4 +1,7 @@
 # Quadratic Sieve Python implementation.
-Python quadratic sieve implementation (including Rabin Miller Rabin-Miller primality testing) from scratch. See the ipynb for example.
+
+Python quadratic sieve implementation (including Rabin Miller Rabin-Miller primality testing) for large number factorization.
+
+All the function is build from scratch. Only math is imported. See the ipynb for usage example.
 
 TODO: make it class
